@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Vázquez Lumbreras</h1>
-<h3 align="center">A passionate frontend developer from Spain. Also i love the photography, the design and the architecture.</h3>
+<h3 align="center">A passionate frontend developer from Spain. Also i have sensibility and good skills for the design.</h3>
 
 - 🔭 I’m currently working on [Rick and Morty](https://github.com/davzlum/rick-morty-API)
 
